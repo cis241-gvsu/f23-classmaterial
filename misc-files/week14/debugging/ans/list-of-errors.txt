@@ -1,0 +1,11 @@
+weird stuff with rows and cols
+
+`sum` not reset to zero each row
+
+access to `mat` is wrong -- mat[i*n + j]
+
+loop variable limits are switched
+
+never set `out[i]` to anything
+
+fill_vec has a memory leak

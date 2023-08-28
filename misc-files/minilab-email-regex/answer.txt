@@ -1,0 +1,5 @@
+grep -E '^[[:alnum:]]([[:alnum:]]|([.][[:alnum:]]))*$' emails1.txt
+
+Full checker
+grep -E -v '^[[:alnum:]]([[:alnum:]]|([.][[:alnum:]]))*@[[:alnum:]]([[:alnum:]]|([.-][[:alnum:]]))*[.][[:alpha:]]{2,}$' emails1.txt 
+
