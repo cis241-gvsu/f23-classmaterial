@@ -128,7 +128,7 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 * Assignments and minilabs requiring submission will be submitted through
-  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/129841) and, in
+  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/141457) and, in
   some cases, also through Github.  More details will be
   provided with the first assignment, but you will need to create a github
   account.  Most minilabs will be awarded credit based attendance on the day
