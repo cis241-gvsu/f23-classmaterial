@@ -5,15 +5,11 @@ Instructor: Erin Carrier
 
 Office:  C-2-211 MAK
 
-Office Hours: 
-Office Hours: 
-  * Mondays 3:30pm - 4:25pm
-  * Wednesdays 11:00am - 11:55am
-  * Fridays 11:00am - 11:55am
+Office Hours:  TBA
 
 Contact:
 
-* [Piazza](https://piazza.com/gvsu/fall2023/cis241/home) **preferred**
+* [Piazza](https://piazza.com/gvsu/fall2024/cis241/home) **preferred**
 * [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
 
 ## Course Description
@@ -129,7 +125,7 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 * Assignments and minilabs requiring submission will be submitted through
-  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/141457) and, in
+  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/162478) and, in
   some cases, also through Github.  More details will be
   provided with the first assignment, but you will need to create a github
   account.  Most minilabs will be awarded credit based attendance on the day
@@ -211,8 +207,7 @@ class periods to allow sufficient time for coding.
 All students are expected to adhere to the academic honesty standards
 set forth by Grand Valley State University. In addition, students
 in this course are expected to adhere to the [academic honesty
-guidelines as set forth by the School of Computing and Information
-Systems](https://www.gvsu.edu/computing/academic-honesty-30.htm). Fundamentally,
+guidelines as set forth by the College of Computing](https://www.gvsu.edu/computing/academic-honesty-30.htm). Fundamentally,
 the work you submit must be your own.  **When in doubt, ask the instructor
 first and cite any resources.**
 
